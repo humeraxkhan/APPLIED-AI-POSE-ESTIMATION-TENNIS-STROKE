@@ -1,0 +1,7 @@
+torch>=2.1.0
+opencv-python>=4.10.0
+mediapipe>=0.10.0
+numpy
+pandas
+matplotlib
+scikit-learn
